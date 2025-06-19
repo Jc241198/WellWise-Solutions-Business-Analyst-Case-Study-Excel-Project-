@@ -23,8 +23,7 @@ This project simulates a business analyst role at **WellWise Solutions**, a fict
 
 | File | Description |
 |------|-------------|
-| `WellWise_Analysis.xlsx` | Excel file with cleaned data, queries, pivot tables & charts |
-| `WellWise_Case_Study_Report.docx` | Written summary report with screenshots & insights |
+| `Business_Analyst_assesment.xlsx` | Excel file with cleaned data, queries, pivot tables & charts |
 | `WellWise_Case_Study_Report.pdf` | (Optional) PDF version of report for easier viewing |
 
 ## 📊 Key Business Insights
