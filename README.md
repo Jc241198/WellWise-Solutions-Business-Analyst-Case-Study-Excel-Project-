@@ -1,17 +1,17 @@
 # WellWise Solutions – Business Analyst Case Study (Excel Project)
 
-This project simulates a business analyst role at **WellWise Solutions**, a fictional health and wellness company. The case study involved working with user data, payment transactions, referrals, plans, and health goals to generate key business insights using Excel and Power Query.
+This project simulates a business analyst role at **WellWise Solutions**, a fictional health and wellness company. The case study involved analyzing user data, payment transactions, referrals, plans, and health goals to generate key business insights using Excel and Power Query.
 
-🎯 Objectives
+## 🎯 Objectives
 
 - Analyze total revenue by plan type
 - Identify top 5 customers by total spending
 - Track monthly trends in successful referrals
-- Calculate average user spending
+- Understand payment method usage
 - Determine user retention (repeat customers)
-- Visualize age vs spending with a scatter plot
+- Visualize age vs. spending with a scatter plot
 
-🧰 Tools Used
+## 🧰 Tools Used
 
 - Microsoft Excel
 - Power Query
@@ -19,22 +19,42 @@ This project simulates a business analyst role at **WellWise Solutions**, a fict
 - Charts: Bar, Line, Scatter
 - Trendline Analysis
 
-📎 Files Included
+## 📎 Files Included
 
-| File | Description |
-|------|-------------|
-| `Business_Analyst_assesment.xlsx` | Excel file with cleaned data, queries, pivot tables & charts |
-| `WellWise_Case_Study_Report.pdf` | (Optional) PDF version of report for easier viewing |
+| File Name | Description |
+|-----------|-------------|
+| `Business_Analyst_assesment.xlsx` | Excel file with cleaned data, pivot tables & charts |
+| `Wellwise_Business Analysis_Rep.pdf` | Final report with screenshots & insights |
+| `.png` files | All chart images used in the report & README |
+
+## 📸 Visual Samples
+
+### 💰 Revenue by Plan Type
+![Revenue by Plan Type](Revenue%20by%20Plan_type.png)
+
+### 🔁 Repeated Users by Plan
+![Repeated Users by Plan](Repeated%20users%20by%20plan.png)
+
+### 💳 Payment Method Distribution
+![Payment Method Chart](Payment%20method%20distribution.png)
+
+### 📈 Monthly Successful Referrals
+![Monthly Referrals](Monthly_Referrals.png)
+
+### 📊 Age vs Spending (Scatter Plot)
+![Age vs Spending](Age%20vs%20spending.png)
 
 ## 📊 Key Business Insights
 
-- 💸 **Revenue**: 12-month plans bring the highest revenue and better retention.
-- 👥 **Top Users**: Male users in the 25–34 age group spend the most.
-- 🔁 **Retention**: Users who renew plans tend to prefer long-term options.
-- 📈 **Referrals**: Spiked in March, suggesting campaign or seasonal trend.
-- 📊 **Scatter Plot**: Shows moderate correlation between age and spending (R² = ~0.32).
+- **12-month plans** generate the most revenue and have higher retention rates.
+- **Male users aged 25–34** dominate the top spenders group.
+- Referral activity peaked in specific months, showing **seasonal spikes**.
+- **Digital payment methods** are the most preferred.
+- Users in the **28–42 age range** spend more, confirmed by a positive trendline in the scatter plot.
 
-## 🙋‍♂️ About Me
+--
+Jagadeesh Chandrasetty 
+Data Analyst|BI specialist 
+📍 Bengaluru 
 
-I'm a data enthusiast skilled in Excel, SQL, Power BI, and analytical thinking.  
-This case study reflects my approach to solving real-world business questions using structured data and clean visual reporting.
+[LinkedIn]: https://www.linkedin.com/in/jagadeesh-chandrasetty-48162a27a
